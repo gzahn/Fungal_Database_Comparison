@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+taxonomy/*
+./output/output_ps_data/SRP045925_dada.RDS
+./taxonomy/UNITE_Euk.tgz
+./.git/objects/pack/pack-aa0b39b87b36734461a6b959a3a879956f76f941.pack
+output/manuscript_figs/kingdom_aov_mod.RDS
+./output_ps_data/SRP045925_dada.RDS
+./manuscript_figs/mixed_barplot_by_study_edited.png
+./output/output_ps_data/SRP045925_dada.RDS
+./output/manuscript_figs/mixed_barplot_by_study_edited.png

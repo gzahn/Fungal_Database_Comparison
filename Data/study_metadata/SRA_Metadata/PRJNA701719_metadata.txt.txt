@@ -1,0 +1,1 @@
+Run,Assay Type,AvgSpotLen,Bases,BioProject,BioSample,BioSampleModel,Bytes,Center Name,Consent,Cultivar,DATASTORE filetype,DATASTORE provider,DATASTORE region,dev_stage,Experiment,Instrument,Isolate,Library Name,LibraryLayout,LibrarySelection,LibrarySource,Organism,Platform,ReleaseDate,Sample Name,SRA Study,STRAIN,Tissue
