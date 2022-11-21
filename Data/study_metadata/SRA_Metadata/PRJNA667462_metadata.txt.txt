@@ -1,0 +1,716 @@
+Run,Assay Type,AvgSpotLen,Bases,BioProject,BioSample,BioSampleModel,Bytes,Center Name,Clone,Collection_Date,Concentration_(ng/ul),Consent,DATASTORE filetype,DATASTORE provider,DATASTORE region,env_broad_scale,env_local_scale,env_medium,Experiment,geo_loc_name_country,geo_loc_name_country_continent,geo_loc_name,HOST,Instrument,JGI_Sample_ID,JGI_Seq_Project_Name,Lat_Lon,Library Name,LibraryLayout,LibrarySelection,LibrarySource,Organism,Plate,Platform,ReleaseDate,Sample_ID_dada2,Sample_id,sample_isolated_from,Sample_Isolation_Method,Sample Name,Seagrass_Or_Not,Shipment_and_Storage_Comments_(Box_#),Species,SRA Study,Sample_Group_Name,continent,ocean,Site,state
+SRR12803303,AMPLICON,599,174261020,PRJNA667462,SAMN16367901,,marine biome,intertidal zone,plant matter,SRX9272385,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178688,Seagrass microbiome iTags plate 1,34.297834 N 132.91631 E,Plate_1.ZM201_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM201_L,ZM201_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM201_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803304,AMPLICON,599,107098730,PRJNA667462,SAMN16368116,,Najas guadalupensis,SRP286914,Feather River,,,,
+SRR12803305,AMPLICON,599,127894190,PRJNA667462,SAMN16368115,,Lilaea scilloides,SRP286914,Feather River,,,,
+SRR12803306,AMPLICON,599,114957870,PRJNA667462,SAMN16368114,,Potamogeton crispus,SRP286914,Feather River,,,,
+SRR12803307,AMPLICON,599,72293154,PRJNA667462,SAMN16368113,,Elodea,SRP286914,Feather River,,,,
+SRR12803308,AMPLICON,599,66478100,PRJNA667462,SAMN16368112,,Potamogeton,SRP286914,Oroville Lake,,,,
+SRR12803309,AMPLICON,599,103158442,PRJNA667462,SAMN16368111,,Najas guadalupensis,SRP286914,Oroville Lake,,,,
+SRR12803310,AMPLICON,599,73869098,PRJNA667462,SAMN16368110,,Najas guadalupensis,SRP286914,Oroville Lake,,,,
+SRR12803311,AMPLICON,599,103109094,PRJNA667462,SAMN16368109,,Phyllospadix,SRP286914,California - Moss Beach,,,,
+SRR12803312,AMPLICON,599,109417700,PRJNA667462,SAMN16368108,,Phyllospadix,SRP286914,California - Moss Beach,,,,
+SRR12803313,AMPLICON,599,104942496,PRJNA667462,SAMN16368107,,Phyllospadix,SRP286914,California - Moss Beach,,,,
+SRR12803314,AMPLICON,599,89781864,PRJNA667462,SAMN16367900,,marine biome,intertidal zone,plant matter,SRX9272374,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178687,Seagrass microbiome iTags plate 1,43.021167 N 144.903217 E,Plate_1.ZM112_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM112_L,ZM112_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM112_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803315,AMPLICON,599,81194122,PRJNA667462,SAMN16368106,,Phyllospadix,SRP286914,California - Moss Beach,,,,
+SRR12803316,AMPLICON,599,150370334,PRJNA667462,SAMN16368105,,Phyllospadix,SRP286914,California - Moss Beach,,,,
+SRR12803317,AMPLICON,599,86882362,PRJNA667462,SAMN16368104,,Phyllospadix,SRP286914,California - Moss Beach,,,,
+SRR12803318,AMPLICON,599,120504982,PRJNA667462,SAMN16368103,,Phyllospadix,SRP286914,California - Moss Beach,,,,
+SRR12803319,AMPLICON,599,90742954,PRJNA667462,SAMN16368102,,Phyllospadix,SRP286914,California - Moss Beach,,,,
+SRR12803320,AMPLICON,599,182316504,PRJNA667462,SAMN16368101,,Phyllospadix,SRP286914,California - Moss Beach,,,,
+SRR12803321,AMPLICON,599,129954934,PRJNA667462,SAMN16368403,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803322,AMPLICON,599,81083798,PRJNA667462,SAMN16368402,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803323,AMPLICON,599,59269142,PRJNA667462,SAMN16368401,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803324,AMPLICON,599,48182908,PRJNA667462,SAMN16368400,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803325,AMPLICON,599,97062148,PRJNA667462,SAMN16368399,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803326,AMPLICON,599,90001710,PRJNA667462,SAMN16368398,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803327,AMPLICON,599,252774408,PRJNA667462,SAMN16368397,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803328,AMPLICON,599,117164578,PRJNA667462,SAMN16367929,,marine biome,intertidal zone,plant matter,SRX9272360,USA,North America,USA: Washington,Zostera marina,Illumina MiSeq,178716,Seagrass microbiome iTags plate 1,46.474 N 124.028 W,Plate_1.ZM405_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM405_L,ZM405_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM405_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803329,AMPLICON,599,309761260,PRJNA667462,SAMN16368396,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803330,AMPLICON,599,285053974,PRJNA667462,SAMN16368395,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803331,AMPLICON,599,348981460,PRJNA667462,SAMN16368394,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803332,AMPLICON,599,398248340,PRJNA667462,SAMN16368393,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803333,AMPLICON,599,258146748,PRJNA667462,SAMN16368392,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803334,AMPLICON,599,327642506,PRJNA667462,SAMN16368391,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803335,AMPLICON,599,1987778,PRJNA667462,SAMN16368390,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803336,AMPLICON,599,412245204,PRJNA667462,SAMN16368389,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803337,AMPLICON,599,207499110,PRJNA667462,SAMN16368388,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803338,AMPLICON,599,75072198,PRJNA667462,SAMN16368387,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803339,AMPLICON,599,73355852,PRJNA667462,SAMN16367928,,marine biome,intertidal zone,plant matter,SRX9272349,USA,North America,USA: Washington,Zostera marina,Illumina MiSeq,178715,Seagrass microbiome iTags plate 1,46.474 N 124.028 W,Plate_1.ZM404_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM404_L,ZM404_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM404_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803340,AMPLICON,599,21608808,PRJNA667462,SAMN16368386,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803341,AMPLICON,599,1487376,PRJNA667462,SAMN16368385,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803342,AMPLICON,600,184800,PRJNA667462,SAMN16368384,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803343,AMPLICON,600,12203400,PRJNA667462,SAMN16368383,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803344,AMPLICON,600,30000,PRJNA667462,SAMN16368382,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803345,AMPLICON,599,9601222,PRJNA667462,SAMN16368381,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803346,AMPLICON,600,12028200,PRJNA667462,SAMN16368380,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803347,AMPLICON,599,2226274,PRJNA667462,SAMN16368379,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803348,AMPLICON,599,14798688,PRJNA667462,SAMN16368378,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803350,AMPLICON,599,153549578,PRJNA667462,SAMN16368099,,Alisma/Sagittaria,SRP286914,Discovery Park,,,,
+SRR12803351,AMPLICON,599,96223914,PRJNA667462,SAMN16368098,,Alisma/Sagittaria,SRP286914,Cosumnes River,,,,
+SRR12803352,AMPLICON,599,147856238,PRJNA667462,SAMN16368097,,Elodea,SRP286914,Cosumnes River,,,,
+SRR12803353,AMPLICON,599,8770080,PRJNA667462,SAMN16367899,,marine biome,intertidal zone,plant matter,SRX9272335,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178686,Seagrass microbiome iTags plate 1,43.021167 N 144.903217 E,Plate_1.ZM111_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM111_L,ZM111_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM111_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803354,AMPLICON,599,133178012,PRJNA667462,SAMN16368096,,Sagittaria,SRP286914,Cosumnes River,,,,
+SRR12803355,AMPLICON,599,106263758,PRJNA667462,SAMN16368095,,Sagittaria,SRP286914,Cosumnes River,,,,
+SRR12803356,AMPLICON,599,92677070,PRJNA667462,SAMN16368094,,Sagittaria,SRP286914,Cosumnes River,,,,
+SRR12803357,AMPLICON,599,124599280,PRJNA667462,SAMN16368093,,Alisma/Sagittaria,SRP286914,Cosumnes River,,,,
+SRR12803358,AMPLICON,600,3915000,PRJNA667462,SAMN16368092,,Halophila decipiens,SRP286914,,,,,
+SRR12803359,AMPLICON,599,46735778,PRJNA667462,SAMN16368091,,Thalassia testudinum,SRP286914,,,,,
+SRR12803360,AMPLICON,600,46597200,PRJNA667462,SAMN16368090,,Halodule wrightii,SRP286914,,,,,
+SRR12803361,AMPLICON,599,25324206,PRJNA667462,SAMN16368089,,Syringodium,SRP286914,,,,,
+SRR12803362,AMPLICON,599,136823546,PRJNA667462,SAMN16368088,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803363,AMPLICON,599,116401022,PRJNA667462,SAMN16368087,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803364,AMPLICON,599,148165332,PRJNA667462,SAMN16367898,,marine biome,intertidal zone,plant matter,SRX9272324,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178685,Seagrass microbiome iTags plate 1,43.021167 N 144.903217 E,Plate_1.ZM110_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM110_L,ZM110_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM110_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803365,AMPLICON,599,139631656,PRJNA667462,SAMN16368086,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803366,AMPLICON,599,90731116,PRJNA667462,SAMN16368085,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803367,AMPLICON,599,126076094,PRJNA667462,SAMN16368084,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803368,AMPLICON,599,102198870,PRJNA667462,SAMN16368083,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803369,AMPLICON,599,93549426,PRJNA667462,SAMN16368082,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803370,AMPLICON,599,131674008,PRJNA667462,SAMN16368081,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803371,AMPLICON,599,65321026,PRJNA667462,SAMN16368080,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803372,AMPLICON,599,133377198,PRJNA667462,SAMN16368079,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803373,AMPLICON,599,87166490,PRJNA667462,SAMN16368078,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803374,AMPLICON,599,115822232,PRJNA667462,SAMN16368077,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803375,AMPLICON,599,113186402,PRJNA667462,SAMN16367897,,marine biome,intertidal zone,plant matter,SRX9272313,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178684,Seagrass microbiome iTags plate 1,43.021167 N 144.903217 E,Plate_1.ZM109_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM109_L,ZM109_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM109_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803376,AMPLICON,599,172540916,PRJNA667462,SAMN16367879,,marine biome,intertidal zone,plant matter,SRX9272312,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178666,Seagrass microbiome iTags plate 1,64.485428 N 164.76189 W,Plate_1.ZM3_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM3_L,ZM3_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM3_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803377,AMPLICON,600,15600,PRJNA667462,SAMN16368377,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803378,AMPLICON,599,86879760,PRJNA667462,SAMN16367927,,marine biome,intertidal zone,plant matter,SRX9272310,USA,North America,USA: Washington,Zostera marina,Illumina MiSeq,178714,Seagrass microbiome iTags plate 1,46.474 N 124.028 W,Plate_1.ZM403_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM403_L,ZM403_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM403_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803379,AMPLICON,599,104860742,PRJNA667462,SAMN16367882,,marine biome,intertidal zone,plant matter,SRX9272309,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178669,Seagrass microbiome iTags plate 1,64.485428 N 164.76189 W,Plate_1.ZM6_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM6_L,ZM6_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM6_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803380,AMPLICON,599,9772126,PRJNA667462,SAMN16368376,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803381,AMPLICON,599,37190,PRJNA667462,SAMN16368375,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803382,AMPLICON,599,32861786,PRJNA667462,SAMN16368374,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803383,AMPLICON,599,52935942,PRJNA667462,SAMN16368373,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803384,AMPLICON,599,15373862,PRJNA667462,SAMN16368372,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803385,AMPLICON,599,48494564,PRJNA667462,SAMN16368371,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803386,AMPLICON,599,17658826,PRJNA667462,SAMN16368370,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803387,AMPLICON,599,41525690,PRJNA667462,SAMN16368369,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803388,AMPLICON,599,95493790,PRJNA667462,SAMN16368368,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803389,AMPLICON,599,168304762,PRJNA667462,SAMN16368367,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803390,AMPLICON,599,117980610,PRJNA667462,SAMN16367926,,marine biome,intertidal zone,plant matter,SRX9272298,USA,North America,USA: Washington,Zostera marina,Illumina MiSeq,178713,Seagrass microbiome iTags plate 1,46.474 N 124.028 W,Plate_1.ZM402_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM402_L,ZM402_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM402_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803391,AMPLICON,599,90930546,PRJNA667462,SAMN16368366,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803392,AMPLICON,599,100313866,PRJNA667462,SAMN16368365,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803393,AMPLICON,599,58088094,PRJNA667462,SAMN16368364,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803394,AMPLICON,599,16272480,PRJNA667462,SAMN16368363,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803395,AMPLICON,599,371504480,PRJNA667462,SAMN16368362,,Lilaea scilloides,SRP286914,Oroville Lake,,,,
+SRR12803396,AMPLICON,600,17312400,PRJNA667462,SAMN16368361,,Potamogeton crispus,SRP286914,Oroville Lake,,,,
+SRR12803397,AMPLICON,599,248735712,PRJNA667462,SAMN16368360,,Elodea,SRP286914,Oroville Lake,,,,
+SRR12803398,AMPLICON,599,344130666,PRJNA667462,SAMN16368359,,Potamogeton,SRP286914,Oroville Lake,,,,
+SRR12803399,AMPLICON,599,124224576,PRJNA667462,SAMN16368358,,Najas guadalupensis,SRP286914,Oroville Lake,,,,
+SRR12803400,AMPLICON,599,131521400,PRJNA667462,SAMN16368357,,Najas guadalupensis,SRP286914,Oroville Lake,,,,
+SRR12803401,AMPLICON,599,109217060,PRJNA667462,SAMN16367925,,marine biome,intertidal zone,plant matter,SRX9272287,USA,North America,USA: Washington,Zostera marina,Illumina MiSeq,178712,Seagrass microbiome iTags plate 1,46.474 N 124.028 W,Plate_1.ZM401_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM401_L,ZM401_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM401_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803402,AMPLICON,599,657483368,PRJNA667462,SAMN16368356,,Phyllospadix,SRP286914,California - Moss Beach,,,,
+SRR12803403,AMPLICON,599,296295640,PRJNA667462,SAMN16368355,,Phyllospadix,SRP286914,California - Moss Beach,,,,
+SRR12803404,AMPLICON,599,296525688,PRJNA667462,SAMN16368354,,Phyllospadix,SRP286914,California - Moss Beach,,,,
+SRR12803405,AMPLICON,599,79202666,PRJNA667462,SAMN16368076,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803406,AMPLICON,599,126426648,PRJNA667462,SAMN16368075,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803407,AMPLICON,599,92018496,PRJNA667462,SAMN16368074,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803408,AMPLICON,599,87193972,PRJNA667462,SAMN16368073,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803409,AMPLICON,599,77219782,PRJNA667462,SAMN16368072,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803410,AMPLICON,599,101991196,PRJNA667462,SAMN16368071,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803411,AMPLICON,599,109490132,PRJNA667462,SAMN16368070,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803412,AMPLICON,599,75517230,PRJNA667462,SAMN16368069,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803413,AMPLICON,599,47152796,PRJNA667462,SAMN16368068,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803414,AMPLICON,599,111250216,PRJNA667462,SAMN16368067,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803415,AMPLICON,599,69063552,PRJNA667462,SAMN16367896,,marine biome,intertidal zone,plant matter,SRX9272273,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178683,Seagrass microbiome iTags plate 1,43.021167 N 144.903217 E,Plate_1.ZM108_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM108_L,ZM108_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM108_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803416,AMPLICON,599,104803152,PRJNA667462,SAMN16368066,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803417,AMPLICON,599,72436132,PRJNA667462,SAMN16368065,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803418,AMPLICON,600,59011800,PRJNA667462,SAMN16368064,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803419,AMPLICON,599,90289494,PRJNA667462,SAMN16368063,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803420,AMPLICON,599,19512804,PRJNA667462,SAMN16368062,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803421,AMPLICON,600,48509400,PRJNA667462,SAMN16368061,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803422,AMPLICON,599,124450240,PRJNA667462,SAMN16368060,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803423,AMPLICON,599,85023556,PRJNA667462,SAMN16368059,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803424,AMPLICON,599,76295460,PRJNA667462,SAMN16368058,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803425,AMPLICON,599,118053704,PRJNA667462,SAMN16368057,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803426,AMPLICON,599,104344822,PRJNA667462,SAMN16367895,,marine biome,intertidal zone,plant matter,SRX9272262,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178682,Seagrass microbiome iTags plate 1,43.021167 N 144.903217 E,Plate_1.ZM107_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM107_L,ZM107_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM107_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803427,AMPLICON,599,39803312,PRJNA667462,SAMN16368056,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803428,AMPLICON,599,85490464,PRJNA667462,SAMN16368055,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803429,AMPLICON,599,119357906,PRJNA667462,SAMN16368054,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803430,AMPLICON,599,62925502,PRJNA667462,SAMN16368053,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803431,AMPLICON,599,68796442,PRJNA667462,SAMN16368052,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803432,AMPLICON,599,90371336,PRJNA667462,SAMN16368051,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803433,AMPLICON,599,131098754,PRJNA667462,SAMN16367976,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803434,AMPLICON,599,42794842,PRJNA667462,SAMN16367975,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803435,AMPLICON,599,137023762,PRJNA667462,SAMN16367974,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803436,AMPLICON,599,25003154,PRJNA667462,SAMN16367973,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803437,AMPLICON,599,43302790,PRJNA667462,SAMN16367972,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803438,AMPLICON,599,166372586,PRJNA667462,SAMN16367971,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803439,AMPLICON,599,112332362,PRJNA667462,SAMN16367970,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803440,AMPLICON,599,140105568,PRJNA667462,SAMN16367969,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803441,AMPLICON,599,31495542,PRJNA667462,SAMN16367968,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803442,AMPLICON,599,48749288,PRJNA667462,SAMN16367967,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803443,AMPLICON,599,155354398,PRJNA667462,SAMN16367886,,marine biome,intertidal zone,plant matter,SRX9272245,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178673,Seagrass microbiome iTags plate 1,64.485428 N 164.76189 W,Plate_1.ZM10_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM10_L,ZM10_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM10_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803444,AMPLICON,599,24191666,PRJNA667462,SAMN16367966,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803445,AMPLICON,599,24322054,PRJNA667462,SAMN16367965,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803446,AMPLICON,599,12891406,PRJNA667462,SAMN16367964,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803447,AMPLICON,599,19899866,PRJNA667462,SAMN16367963,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803448,AMPLICON,599,43630600,PRJNA667462,SAMN16367962,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803449,AMPLICON,599,121483248,PRJNA667462,SAMN16367961,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803450,AMPLICON,599,112992418,PRJNA667462,SAMN16368050,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803451,AMPLICON,599,44047052,PRJNA667462,SAMN16367960,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803452,AMPLICON,599,151592006,PRJNA667462,SAMN16368049,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803453,AMPLICON,599,108159260,PRJNA667462,SAMN16368048,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803454,AMPLICON,599,73578936,PRJNA667462,SAMN16368047,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803455,AMPLICON,599,108849836,PRJNA667462,SAMN16367894,,marine biome,intertidal zone,plant matter,SRX9272234,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178681,Seagrass microbiome iTags plate 1,43.021167 N 144.903217 E,Plate_1.ZM106_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM106_L,ZM106_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM106_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803456,AMPLICON,599,231880916,PRJNA667462,SAMN16368046,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803457,AMPLICON,599,77166634,PRJNA667462,SAMN16368045,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803458,AMPLICON,599,135839330,PRJNA667462,SAMN16368044,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803459,AMPLICON,599,138707300,PRJNA667462,SAMN16368043,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803460,AMPLICON,599,162372634,PRJNA667462,SAMN16368042,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803461,AMPLICON,599,68270020,PRJNA667462,SAMN16368037,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803462,AMPLICON,599,132256840,PRJNA667462,SAMN16368041,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803463,AMPLICON,599,118653464,PRJNA667462,SAMN16367893,,marine biome,intertidal zone,plant matter,SRX9272227,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178680,Seagrass microbiome iTags plate 1,43.021167 N 144.903217 E,Plate_1.ZM105_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM105_L,ZM105_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM105_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803464,AMPLICON,599,72520180,PRJNA667462,SAMN16368036,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803465,AMPLICON,599,122468134,PRJNA667462,SAMN16368035,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803466,AMPLICON,599,59156212,PRJNA667462,SAMN16368034,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803467,AMPLICON,599,122973986,PRJNA667462,SAMN16368033,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803468,AMPLICON,599,86127150,PRJNA667462,SAMN16368032,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803469,AMPLICON,599,95143694,PRJNA667462,SAMN16368031,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803470,AMPLICON,599,66400966,PRJNA667462,SAMN16368030,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803471,AMPLICON,599,124750548,PRJNA667462,SAMN16368029,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803472,AMPLICON,599,13234176,PRJNA667462,SAMN16368028,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803473,AMPLICON,599,90808490,PRJNA667462,SAMN16368027,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803474,AMPLICON,599,56857460,PRJNA667462,SAMN16367892,,marine biome,intertidal zone,plant matter,SRX9272216,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178679,Seagrass microbiome iTags plate 1,43.021167 N 144.903217 E,Plate_1.ZM104_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM104_L,ZM104_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM104_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803475,AMPLICON,599,39050226,PRJNA667462,SAMN16368026,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803476,AMPLICON,599,3338842,PRJNA667462,SAMN16368025,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803477,AMPLICON,599,73346610,PRJNA667462,SAMN16368024,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803478,AMPLICON,599,14177352,PRJNA667462,SAMN16368023,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803479,AMPLICON,599,78871620,PRJNA667462,SAMN16368022,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803480,AMPLICON,599,4176552,PRJNA667462,SAMN16367959,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803481,AMPLICON,599,19340300,PRJNA667462,SAMN16367958,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803482,AMPLICON,599,22641724,PRJNA667462,SAMN16367957,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803483,AMPLICON,599,140945500,PRJNA667462,SAMN16367885,,marine biome,intertidal zone,plant matter,SRX9272207,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178672,Seagrass microbiome iTags plate 1,64.485428 N 164.76189 W,Plate_1.ZM9_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM9_L,ZM9_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM9_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803484,AMPLICON,599,115076572,PRJNA667462,SAMN16367956,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803485,AMPLICON,599,5435326,PRJNA667462,SAMN16367955,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803486,AMPLICON,599,158121436,PRJNA667462,SAMN16367954,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803487,AMPLICON,599,80177814,PRJNA667462,SAMN16367953,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803488,AMPLICON,599,69763374,PRJNA667462,SAMN16367952,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803489,AMPLICON,599,87770490,PRJNA667462,SAMN16367951,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803490,AMPLICON,599,99917322,PRJNA667462,SAMN16367950,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803491,AMPLICON,599,86804424,PRJNA667462,SAMN16367949,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803492,AMPLICON,599,313789016,PRJNA667462,SAMN16368593,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803493,AMPLICON,599,242887654,PRJNA667462,SAMN16368592,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803494,AMPLICON,599,245100684,PRJNA667462,SAMN16368591,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803495,AMPLICON,599,264428136,PRJNA667462,SAMN16368590,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803496,AMPLICON,599,415771654,PRJNA667462,SAMN16368589,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803497,AMPLICON,599,243577150,PRJNA667462,SAMN16368588,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803498,AMPLICON,599,267889516,PRJNA667462,SAMN16368587,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803499,AMPLICON,599,82500650,PRJNA667462,SAMN16367948,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803500,AMPLICON,599,281332916,PRJNA667462,SAMN16368586,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803501,AMPLICON,599,464624240,PRJNA667462,SAMN16368585,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803502,AMPLICON,599,367220824,PRJNA667462,SAMN16368584,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803503,AMPLICON,599,329919594,PRJNA667462,SAMN16368583,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803504,AMPLICON,599,359836266,PRJNA667462,SAMN16368582,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803505,AMPLICON,599,51543048,PRJNA667462,SAMN16368581,,Thalassia testudinum,SRP286914,,,,,
+SRR12803506,AMPLICON,599,61626412,PRJNA667462,SAMN16368580,,Thalassia testudinum,SRP286914,,,,,
+SRR12803507,AMPLICON,599,97564862,PRJNA667462,SAMN16368021,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803508,AMPLICON,599,76291066,PRJNA667462,SAMN16368020,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803509,AMPLICON,599,55828066,PRJNA667462,SAMN16368019,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803510,AMPLICON,599,19766630,PRJNA667462,SAMN16368018,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803511,AMPLICON,599,38964578,PRJNA667462,SAMN16368017,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803512,AMPLICON,599,159394658,PRJNA667462,SAMN16367891,,marine biome,intertidal zone,plant matter,SRX9272177,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178678,Seagrass microbiome iTags plate 1,43.021167 N 144.903217 E,Plate_1.ZM103_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM103_L,ZM103_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM103_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803513,AMPLICON,599,129214986,PRJNA667462,SAMN16368016,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2012,North America,Pacific,California - North,California
+SRR12803514,AMPLICON,599,169005570,PRJNA667462,SAMN16368015,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2011,North America,Pacific,California - North,California
+SRR12803515,AMPLICON,599,114998478,PRJNA667462,SAMN16368014,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2010,North America,Pacific,California - North,California
+SRR12803516,AMPLICON,599,169657200,PRJNA667462,SAMN16368013,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2009,North America,Pacific,California - North,California
+SRR12803517,AMPLICON,599,107381682,PRJNA667462,SAMN16368012,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2008,North America,Pacific,California - North,California
+SRR12803518,AMPLICON,599,94388408,PRJNA667462,SAMN16368011,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2007,North America,Pacific,California - North,California
+SRR12803519,AMPLICON,599,5156684,PRJNA667462,SAMN16368010,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2006,North America,Pacific,California - North,California
+SRR12803520,AMPLICON,599,191944030,PRJNA667462,SAMN16368009,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2005,North America,Pacific,California - North,California
+SRR12803521,AMPLICON,599,144884748,PRJNA667462,SAMN16368008,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2004,North America,Pacific,California - North,California
+SRR12803522,AMPLICON,599,193936278,PRJNA667462,SAMN16368007,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2003,North America,Pacific,California - North,California
+SRR12803523,AMPLICON,599,171748494,PRJNA667462,SAMN16367890,,marine biome,intertidal zone,plant matter,SRX9272166,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178677,Seagrass microbiome iTags plate 1,43.021167 N 144.903217 E,Plate_1.ZM102_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM102_L,ZM102_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM102_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803524,AMPLICON,599,60436164,PRJNA667462,SAMN16368006,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2002,North America,Pacific,California - North,California
+SRR12803525,AMPLICON,599,97683962,PRJNA667462,SAMN16368005,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2001,North America,Pacific,California - North,California
+SRR12803526,AMPLICON,599,133024786,PRJNA667462,SAMN16368004,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1912,North America,Pacific,California - North,California
+SRR12803527,AMPLICON,599,148909944,PRJNA667462,SAMN16368003,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1911,North America,Pacific,California - North,California
+SRR12803528,AMPLICON,599,135027794,PRJNA667462,SAMN16368002,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1910,North America,Pacific,California - North,California
+SRR12803529,AMPLICON,599,118333838,PRJNA667462,SAMN16368001,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1909,North America,Pacific,California - North,California
+SRR12803530,AMPLICON,599,215117776,PRJNA667462,SAMN16368000,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1908,North America,Pacific,California - North,California
+SRR12803531,AMPLICON,599,159560702,PRJNA667462,SAMN16367999,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1907,North America,Pacific,California - North,California
+SRR12803532,AMPLICON,599,77290292,PRJNA667462,SAMN16367998,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1906,North America,Pacific,California - North,California
+SRR12803533,AMPLICON,599,164101282,PRJNA667462,SAMN16367997,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1905,North America,Pacific,California - North,California
+SRR12803534,AMPLICON,599,98095602,PRJNA667462,SAMN16367889,,marine biome,intertidal zone,plant matter,SRX9272155,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178676,Seagrass microbiome iTags plate 1,43.021167 N 144.903217 E,Plate_1.ZM101_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM101_L,ZM101_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM101_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803535,AMPLICON,599,83418184,PRJNA667462,SAMN16367996,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1904,North America,Pacific,California - North,California
+SRR12803536,AMPLICON,599,142704052,PRJNA667462,SAMN16367995,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1903,North America,Pacific,California - North,California
+SRR12803537,AMPLICON,599,140073002,PRJNA667462,SAMN16367994,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1902,North America,Pacific,California - North,California
+SRR12803538,AMPLICON,599,135318672,PRJNA667462,SAMN16367993,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1901,North America,Pacific,California - North,California
+SRR12803539,AMPLICON,599,153095752,PRJNA667462,SAMN16367992,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803540,AMPLICON,599,181066084,PRJNA667462,SAMN16367991,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803541,AMPLICON,599,143008822,PRJNA667462,SAMN16367990,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803542,AMPLICON,599,129406974,PRJNA667462,SAMN16367989,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803543,AMPLICON,599,94235126,PRJNA667462,SAMN16367988,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803544,AMPLICON,599,152659730,PRJNA667462,SAMN16367987,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803545,AMPLICON,599,115931006,PRJNA667462,SAMN16367888,,marine biome,intertidal zone,plant matter,SRX9272144,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178675,Seagrass microbiome iTags plate 1,64.485428 N 164.76189 W,Plate_1.ZM12_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM12_L,ZM12_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM12_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803546,AMPLICON,599,124124082,PRJNA667462,SAMN16367986,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803547,AMPLICON,599,179211758,PRJNA667462,SAMN16367985,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803548,AMPLICON,599,146761888,PRJNA667462,SAMN16367984,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803549,AMPLICON,599,180236978,PRJNA667462,SAMN16367983,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803550,AMPLICON,599,172287246,PRJNA667462,SAMN16367982,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803551,AMPLICON,599,141621204,PRJNA667462,SAMN16367981,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803552,AMPLICON,599,123771844,PRJNA667462,SAMN16367980,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803553,AMPLICON,599,78898196,PRJNA667462,SAMN16367979,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803554,AMPLICON,599,58937164,PRJNA667462,SAMN16367978,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803555,AMPLICON,599,119144142,PRJNA667462,SAMN16367977,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803556,AMPLICON,599,129430812,PRJNA667462,SAMN16367887,,marine biome,intertidal zone,plant matter,SRX9272133,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178674,Seagrass microbiome iTags plate 1,64.485428 N 164.76189 W,Plate_1.ZM11_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM11_L,ZM11_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM11_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803557,AMPLICON,599,142190820,PRJNA667462,SAMN16367878,,marine biome,intertidal zone,plant matter,SRX9272132,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178665,Seagrass microbiome iTags plate 1,64.485428 N 164.76189 W,Plate_1.ZM2_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM2_L,ZM2_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM2_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803558,AMPLICON,599,128708314,PRJNA667462,SAMN16367877,,marine biome,intertidal zone,plant matter,SRX9272131,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178664,Seagrass microbiome iTags plate 1,64.485428 N 164.76189 W,Plate_1.ZM1_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM1_L,ZM1_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM1_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803559,AMPLICON,599,128455206,PRJNA667462,SAMN16368040,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803560,AMPLICON,599,154108436,PRJNA667462,SAMN16368039,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803561,AMPLICON,599,63570520,PRJNA667462,SAMN16368038,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803562,AMPLICON,599,341733436,PRJNA667462,SAMN16368272,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803563,AMPLICON,599,655172,PRJNA667462,SAMN16368271,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803564,AMPLICON,599,1172846,PRJNA667462,SAMN16368270,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803565,AMPLICON,599,272136490,PRJNA667462,SAMN16368269,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803566,AMPLICON,600,301363800,PRJNA667462,SAMN16368268,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803567,AMPLICON,599,1970288,PRJNA667462,SAMN16368267,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803568,AMPLICON,599,84260092,PRJNA667462,SAMN16367916,,marine biome,intertidal zone,plant matter,SRX9272635,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178703,Seagrass microbiome iTags plate 1,55.328899 N 162.821207 W,Plate_1.ZM304_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM304_L,ZM304_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM304_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803569,AMPLICON,599,1087540,PRJNA667462,SAMN16368266,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803570,AMPLICON,600,1804200,PRJNA667462,SAMN16368265,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2012,North America,Pacific,California - North,California
+SRR12803571,AMPLICON,599,108605442,PRJNA667462,SAMN16368264,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2011,North America,Pacific,California - North,California
+SRR12803572,AMPLICON,599,190163858,PRJNA667462,SAMN16368263,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2010,North America,Pacific,California - North,California
+SRR12803573,AMPLICON,600,808200,PRJNA667462,SAMN16368262,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2009,North America,Pacific,California - North,California
+SRR12803574,AMPLICON,599,425065176,PRJNA667462,SAMN16368261,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2008,North America,Pacific,California - North,California
+SRR12803575,AMPLICON,599,3266372,PRJNA667462,SAMN16368260,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2007,North America,Pacific,California - North,California
+SRR12803576,AMPLICON,599,643632,PRJNA667462,SAMN16368259,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2006,North America,Pacific,California - North,California
+SRR12803577,AMPLICON,599,400141904,PRJNA667462,SAMN16368258,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2005,North America,Pacific,California - North,California
+SRR12803578,AMPLICON,599,302325792,PRJNA667462,SAMN16368257,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2004,North America,Pacific,California - North,California
+SRR12803579,AMPLICON,599,64011642,PRJNA667462,SAMN16367915,,marine biome,intertidal zone,plant matter,SRX9272624,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178702,Seagrass microbiome iTags plate 1,55.328899 N 162.821207 W,Plate_1.ZM303_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM303_L,ZM303_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM303_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803580,AMPLICON,600,769200,PRJNA667462,SAMN16368256,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2003,North America,Pacific,California - North,California
+SRR12803581,AMPLICON,599,1118158,PRJNA667462,SAMN16368255,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2002,North America,Pacific,California - North,California
+SRR12803582,AMPLICON,599,1133822,PRJNA667462,SAMN16368254,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2001,North America,Pacific,California - North,California
+SRR12803583,AMPLICON,599,212741882,PRJNA667462,SAMN16368253,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1912,North America,Pacific,California - North,California
+SRR12803584,AMPLICON,599,269309564,PRJNA667462,SAMN16368252,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1911,North America,Pacific,California - North,California
+SRR12803585,AMPLICON,599,1139892,PRJNA667462,SAMN16368251,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1910,North America,Pacific,California - North,California
+SRR12803586,AMPLICON,599,217939408,PRJNA667462,SAMN16368250,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1909,North America,Pacific,California - North,California
+SRR12803587,AMPLICON,599,1338550,PRJNA667462,SAMN16368249,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1908,North America,Pacific,California - North,California
+SRR12803588,AMPLICON,599,290606456,PRJNA667462,SAMN16368248,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1907,North America,Pacific,California - North,California
+SRR12803589,AMPLICON,599,306490896,PRJNA667462,SAMN16368247,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1906,North America,Pacific,California - North,California
+SRR12803590,AMPLICON,599,29139046,PRJNA667462,SAMN16367914,,marine biome,intertidal zone,plant matter,SRX9272613,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178701,Seagrass microbiome iTags plate 1,55.328899 N 162.821207 W,Plate_1.ZM302_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM302_L,ZM302_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM302_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803591,AMPLICON,600,1336800,PRJNA667462,SAMN16368246,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1905,North America,Pacific,California - North,California
+SRR12803592,AMPLICON,599,2873796,PRJNA667462,SAMN16368245,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1904,North America,Pacific,California - North,California
+SRR12803593,AMPLICON,599,100203360,PRJNA667462,SAMN16368244,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1903,North America,Pacific,California - North,California
+SRR12803594,AMPLICON,599,126990808,PRJNA667462,SAMN16368243,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1902,North America,Pacific,California - North,California
+SRR12803595,AMPLICON,599,119722408,PRJNA667462,SAMN16368242,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1901,North America,Pacific,California - North,California
+SRR12803596,AMPLICON,599,134259160,PRJNA667462,SAMN16368241,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803597,AMPLICON,599,118943744,PRJNA667462,SAMN16368240,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803598,AMPLICON,599,116705820,PRJNA667462,SAMN16368239,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803599,AMPLICON,599,145732924,PRJNA667462,SAMN16368238,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803600,AMPLICON,599,115654198,PRJNA667462,SAMN16368237,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803601,AMPLICON,599,58814838,PRJNA667462,SAMN16367913,,marine biome,intertidal zone,plant matter,SRX9272602,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178700,Seagrass microbiome iTags plate 1,55.328899 N 162.821207 W,Plate_1.ZM301_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM301_L,ZM301_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM301_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803602,AMPLICON,599,142580322,PRJNA667462,SAMN16368236,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803603,AMPLICON,599,120445062,PRJNA667462,SAMN16368235,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803604,AMPLICON,599,139476248,PRJNA667462,SAMN16368234,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803605,AMPLICON,599,112799770,PRJNA667462,SAMN16368233,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803606,AMPLICON,599,98569148,PRJNA667462,SAMN16368232,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803607,AMPLICON,599,92688624,PRJNA667462,SAMN16368231,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803608,AMPLICON,599,184250654,PRJNA667462,SAMN16368230,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803609,AMPLICON,599,125416266,PRJNA667462,SAMN16368229,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803610,AMPLICON,599,74575152,PRJNA667462,SAMN16368228,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803611,AMPLICON,599,204036142,PRJNA667462,SAMN16368227,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803612,AMPLICON,599,78675734,PRJNA667462,SAMN16368529,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803613,AMPLICON,599,28782514,PRJNA667462,SAMN16368528,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803614,AMPLICON,598,6633494,PRJNA667462,SAMN16368527,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803615,AMPLICON,599,122279334,PRJNA667462,SAMN16367942,,Zostera marina,Illumina MiSeq,178729,Seagrass microbiome iTags plate 1,38.319755 N 123.055136 W,Plate_1.ZM510_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM510_L,ZM510_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM510_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803616,AMPLICON,599,332611614,PRJNA667462,SAMN16368526,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803617,AMPLICON,599,108205308,PRJNA667462,SAMN16368525,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803618,AMPLICON,599,235300066,PRJNA667462,SAMN16368524,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803619,AMPLICON,599,270462708,PRJNA667462,SAMN16368523,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803620,AMPLICON,599,149664168,PRJNA667462,SAMN16368522,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803621,AMPLICON,599,321006536,PRJNA667462,SAMN16368521,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803622,AMPLICON,599,188206824,PRJNA667462,SAMN16368520,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803623,AMPLICON,599,332208470,PRJNA667462,SAMN16368519,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803624,AMPLICON,599,399958384,PRJNA667462,SAMN16368518,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803625,AMPLICON,599,369103710,PRJNA667462,SAMN16368517,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803626,AMPLICON,599,87686596,PRJNA667462,SAMN16367941,,Zostera marina,Illumina MiSeq,178728,Seagrass microbiome iTags plate 1,38.319755 N 123.055136 W,Plate_1.ZM509_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM509_L,ZM509_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM509_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803627,AMPLICON,599,295157976,PRJNA667462,SAMN16368516,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803628,AMPLICON,599,368657332,PRJNA667462,SAMN16368515,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803629,AMPLICON,599,523122926,PRJNA667462,SAMN16368514,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803630,AMPLICON,599,60469622,PRJNA667462,SAMN16368513,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803631,AMPLICON,599,161045972,PRJNA667462,SAMN16368512,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803632,AMPLICON,599,410829560,PRJNA667462,SAMN16368511,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803633,AMPLICON,599,266368898,PRJNA667462,SAMN16368510,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803634,AMPLICON,599,17995458,PRJNA667462,SAMN16368509,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803635,AMPLICON,599,234596,PRJNA667462,SAMN16368508,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803636,AMPLICON,599,293540046,PRJNA667462,SAMN16368507,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803637,AMPLICON,599,131448536,PRJNA667462,SAMN16367940,,Zostera marina,Illumina MiSeq,178727,Seagrass microbiome iTags plate 1,38.319755 N 123.055136 W,Plate_1.ZM508_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM508_L,ZM508_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM508_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803638,AMPLICON,599,100665486,PRJNA667462,SAMN16368506,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803639,AMPLICON,599,315469460,PRJNA667462,SAMN16368505,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803640,AMPLICON,599,145931308,PRJNA667462,SAMN16367912,,marine biome,intertidal zone,plant matter,SRX9272563,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178699,Seagrass microbiome iTags plate 1,34.297834 N 132.91631 E,Plate_1.ZM212_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM212_L,ZM212_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM212_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803641,AMPLICON,599,115579990,PRJNA667462,SAMN16368226,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803642,AMPLICON,599,133420734,PRJNA667462,SAMN16368225,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803643,AMPLICON,599,98728170,PRJNA667462,SAMN16368224,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803644,AMPLICON,599,130135542,PRJNA667462,SAMN16368223,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803645,AMPLICON,599,91771860,PRJNA667462,SAMN16368222,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803646,AMPLICON,599,70177024,PRJNA667462,SAMN16368221,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803647,AMPLICON,599,83098530,PRJNA667462,SAMN16368220,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803648,AMPLICON,599,101832774,PRJNA667462,SAMN16368219,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803649,AMPLICON,599,103026670,PRJNA667462,SAMN16368218,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803650,AMPLICON,599,117296720,PRJNA667462,SAMN16368217,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803651,AMPLICON,599,162140344,PRJNA667462,SAMN16367911,,marine biome,intertidal zone,plant matter,SRX9272552,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178698,Seagrass microbiome iTags plate 1,34.297834 N 132.91631 E,Plate_1.ZM211_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM211_L,ZM211_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM211_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803652,AMPLICON,599,105183030,PRJNA667462,SAMN16368216,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803653,AMPLICON,600,58176600,PRJNA667462,SAMN16368215,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803654,AMPLICON,600,79219800,PRJNA667462,SAMN16368214,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803655,AMPLICON,599,88599174,PRJNA667462,SAMN16368213,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803656,AMPLICON,599,64590762,PRJNA667462,SAMN16368212,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803657,AMPLICON,600,44884800,PRJNA667462,SAMN16368211,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803658,AMPLICON,599,104106096,PRJNA667462,SAMN16368210,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803659,AMPLICON,600,21175800,PRJNA667462,SAMN16368209,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803660,AMPLICON,599,97802612,PRJNA667462,SAMN16368208,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803661,AMPLICON,599,99682442,PRJNA667462,SAMN16368207,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803662,AMPLICON,599,99838102,PRJNA667462,SAMN16367910,,marine biome,intertidal zone,plant matter,SRX9272541,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178697,Seagrass microbiome iTags plate 1,34.297834 N 132.91631 E,Plate_1.ZM210_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM210_L,ZM210_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM210_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803663,AMPLICON,599,93713300,PRJNA667462,SAMN16368206,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803664,AMPLICON,599,85734590,PRJNA667462,SAMN16368205,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803665,AMPLICON,599,55957370,PRJNA667462,SAMN16368204,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803666,AMPLICON,599,65886638,PRJNA667462,SAMN16368203,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803667,AMPLICON,599,93093440,PRJNA667462,SAMN16368202,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803668,AMPLICON,599,84144026,PRJNA667462,SAMN16368201,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803669,AMPLICON,599,89504158,PRJNA667462,SAMN16368200,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803670,AMPLICON,600,82228800,PRJNA667462,SAMN16368199,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803671,AMPLICON,599,77953834,PRJNA667462,SAMN16368198,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803672,AMPLICON,600,123642000,PRJNA667462,SAMN16368197,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803673,AMPLICON,599,117438708,PRJNA667462,SAMN16367909,,marine biome,intertidal zone,plant matter,SRX9272530,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178696,Seagrass microbiome iTags plate 1,34.297834 N 132.91631 E,Plate_1.ZM209_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM209_L,ZM209_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM209_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803674,AMPLICON,599,110493060,PRJNA667462,SAMN16368196,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803675,AMPLICON,599,126652024,PRJNA667462,SAMN16368195,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803676,AMPLICON,599,69833254,PRJNA667462,SAMN16368194,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803677,AMPLICON,599,212330342,PRJNA667462,SAMN16368193,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803678,AMPLICON,599,167388012,PRJNA667462,SAMN16368192,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803679,AMPLICON,599,196276500,PRJNA667462,SAMN16368191,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803680,AMPLICON,599,94326616,PRJNA667462,SAMN16368190,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803681,AMPLICON,599,115605452,PRJNA667462,SAMN16368189,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803682,AMPLICON,599,107358044,PRJNA667462,SAMN16368188,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803683,AMPLICON,599,109566716,PRJNA667462,SAMN16368187,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803684,AMPLICON,599,215011934,PRJNA667462,SAMN16367908,,marine biome,intertidal zone,plant matter,SRX9272519,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178695,Seagrass microbiome iTags plate 1,34.297834 N 132.91631 E,Plate_1.ZM208_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM208_L,ZM208_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM208_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803685,AMPLICON,599,80815572,PRJNA667462,SAMN16368186,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803686,AMPLICON,600,112778400,PRJNA667462,SAMN16368185,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803687,AMPLICON,599,158907154,PRJNA667462,SAMN16368184,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803688,AMPLICON,599,123758304,PRJNA667462,SAMN16368183,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803689,AMPLICON,599,105351170,PRJNA667462,SAMN16368182,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803690,AMPLICON,599,97025760,PRJNA667462,SAMN16368181,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803691,AMPLICON,599,104255042,PRJNA667462,SAMN16368180,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803692,AMPLICON,599,120372448,PRJNA667462,SAMN16368179,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803693,AMPLICON,599,93150742,PRJNA667462,SAMN16368178,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803694,AMPLICON,599,84480210,PRJNA667462,SAMN16368177,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803695,AMPLICON,599,23990816,PRJNA667462,SAMN16367907,,marine biome,intertidal zone,plant matter,SRX9272508,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178694,Seagrass microbiome iTags plate 1,34.297834 N 132.91631 E,Plate_1.ZM207_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM207_L,ZM207_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM207_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803696,AMPLICON,600,108000,PRJNA667462,SAMN16368478,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803697,AMPLICON,600,4800,PRJNA667462,SAMN16368477,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803698,AMPLICON,599,94043690,PRJNA667462,SAMN16367937,,Zostera marina,Illumina MiSeq,178724,Seagrass microbiome iTags plate 1,38.319755 N 123.055136 W,Plate_1.ZM505_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM505_L,ZM505_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM505_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803699,AMPLICON,599,136650024,PRJNA667462,SAMN16367883,,marine biome,intertidal zone,plant matter,SRX9272504,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178670,Seagrass microbiome iTags plate 1,64.485428 N 164.76189 W,Plate_1.ZM7_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM7_L,ZM7_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM7_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803700,AMPLICON,599,221376,PRJNA667462,SAMN16368476,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803701,AMPLICON,599,205978326,PRJNA667462,SAMN16368475,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803702,AMPLICON,599,142198,PRJNA667462,SAMN16368474,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803703,AMPLICON,599,282786846,PRJNA667462,SAMN16368473,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803704,AMPLICON,599,430343120,PRJNA667462,SAMN16368472,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803705,AMPLICON,599,58948196,PRJNA667462,SAMN16368471,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803706,AMPLICON,599,432534,PRJNA667462,SAMN16368470,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803707,AMPLICON,599,496792,PRJNA667462,SAMN16368469,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803708,AMPLICON,599,37796,PRJNA667462,SAMN16368468,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803709,AMPLICON,599,93971562,PRJNA667462,SAMN16368467,,Zostera marina,SRP286914,North Carolina,North America,Atlantic,North Carolina,North Carolina
+SRR12803710,AMPLICON,599,34577478,PRJNA667462,SAMN16367936,,marine biome,intertidal zone,plant matter,SRX9272493,USA,North America,USA: Washington,Zostera marina,Illumina MiSeq,178723,Seagrass microbiome iTags plate 1,46.474 N 124.028 W,Plate_1.ZM412_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM412_L,ZM412_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM412_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803711,AMPLICON,599,2307534,PRJNA667462,SAMN16368466,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803712,AMPLICON,599,10438188,PRJNA667462,SAMN16368465,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803713,AMPLICON,600,3839400,PRJNA667462,SAMN16368464,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803714,AMPLICON,599,13192,PRJNA667462,SAMN16368463,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803715,AMPLICON,600,9000,PRJNA667462,SAMN16368462,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803716,AMPLICON,600,18600,PRJNA667462,SAMN16368461,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803717,AMPLICON,600,2259600,PRJNA667462,SAMN16368460,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803718,AMPLICON,599,4750418,PRJNA667462,SAMN16368459,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803719,AMPLICON,600,54571200,PRJNA667462,SAMN16368458,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803720,AMPLICON,600,4627200,PRJNA667462,SAMN16368457,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803721,AMPLICON,599,77211412,PRJNA667462,SAMN16367935,,marine biome,intertidal zone,plant matter,SRX9272482,USA,North America,USA: Washington,Zostera marina,Illumina MiSeq,178722,Seagrass microbiome iTags plate 1,46.474 N 124.028 W,Plate_1.ZM411_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM411_L,ZM411_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM411_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803722,AMPLICON,600,2118000,PRJNA667462,SAMN16368456,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803723,AMPLICON,600,1528800,PRJNA667462,SAMN16368455,,Zostera marina,SRP286914,Massachusetts - B,North America,Atlantic,Massachusetts,Massachusetts
+SRR12803724,AMPLICON,599,101673284,PRJNA667462,SAMN16367880,,marine biome,intertidal zone,plant matter,SRX9272479,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178667,Seagrass microbiome iTags plate 1,64.485428 N 164.76189 W,Plate_1.ZM4_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM4_L,ZM4_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM4_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803725,AMPLICON,599,116781716,PRJNA667462,SAMN16368176,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803726,AMPLICON,599,112476024,PRJNA667462,SAMN16368175,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803727,AMPLICON,600,73386600,PRJNA667462,SAMN16368174,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803728,AMPLICON,599,154062790,PRJNA667462,SAMN16368173,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803729,AMPLICON,600,6643200,PRJNA667462,SAMN16368172,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803730,AMPLICON,599,25691678,PRJNA667462,SAMN16368171,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803731,AMPLICON,599,85100194,PRJNA667462,SAMN16368170,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803732,AMPLICON,599,136935700,PRJNA667462,SAMN16368169,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803733,AMPLICON,599,100913446,PRJNA667462,SAMN16368168,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803734,AMPLICON,599,68404846,PRJNA667462,SAMN16368167,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803735,AMPLICON,599,102169924,PRJNA667462,SAMN16367906,,marine biome,intertidal zone,plant matter,SRX9272468,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178693,Seagrass microbiome iTags plate 1,34.297834 N 132.91631 E,Plate_1.ZM206_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM206_L,ZM206_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM206_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803736,AMPLICON,599,80888098,PRJNA667462,SAMN16368166,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803737,AMPLICON,599,112211740,PRJNA667462,SAMN16368165,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803738,AMPLICON,599,51340100,PRJNA667462,SAMN16368164,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803739,AMPLICON,599,124486348,PRJNA667462,SAMN16368163,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803740,AMPLICON,599,110099990,PRJNA667462,SAMN16368162,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803741,AMPLICON,599,97517760,PRJNA667462,SAMN16368161,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803742,AMPLICON,599,106249612,PRJNA667462,SAMN16368160,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803743,AMPLICON,599,124401954,PRJNA667462,SAMN16368159,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803744,AMPLICON,599,111778292,PRJNA667462,SAMN16368158,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803745,AMPLICON,599,77917032,PRJNA667462,SAMN16368157,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803746,AMPLICON,599,80723516,PRJNA667462,SAMN16367905,,marine biome,intertidal zone,plant matter,SRX9272457,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178692,Seagrass microbiome iTags plate 1,34.297834 N 132.91631 E,Plate_1.ZM205_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM205_L,ZM205_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM205_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803747,AMPLICON,599,112660062,PRJNA667462,SAMN16368156,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803748,AMPLICON,599,116068860,PRJNA667462,SAMN16368155,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803749,AMPLICON,599,92549424,PRJNA667462,SAMN16368154,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803750,AMPLICON,599,85300222,PRJNA667462,SAMN16368153,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803751,AMPLICON,599,129595094,PRJNA667462,SAMN16368152,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803752,AMPLICON,599,418311182,PRJNA667462,SAMN16368454,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803753,AMPLICON,600,30955800,PRJNA667462,SAMN16368453,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803754,AMPLICON,599,74181874,PRJNA667462,SAMN16368452,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803755,AMPLICON,599,49421890,PRJNA667462,SAMN16368451,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803756,AMPLICON,599,60082624,PRJNA667462,SAMN16368450,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803757,AMPLICON,599,22241350,PRJNA667462,SAMN16368449,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803758,AMPLICON,599,65831104,PRJNA667462,SAMN16368448,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803759,AMPLICON,599,44522398,PRJNA667462,SAMN16368447,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803760,AMPLICON,599,82242314,PRJNA667462,SAMN16367934,,marine biome,intertidal zone,plant matter,SRX9272443,USA,North America,USA: Washington,Zostera marina,Illumina MiSeq,178721,Seagrass microbiome iTags plate 1,46.474 N 124.028 W,Plate_1.ZM410_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM410_L,ZM410_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM410_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803761,AMPLICON,598,117900,PRJNA667462,SAMN16368446,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803762,AMPLICON,598,93920,PRJNA667462,SAMN16368445,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803763,AMPLICON,599,22321970,PRJNA667462,SAMN16368444,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803764,AMPLICON,599,10796,PRJNA667462,SAMN16368443,,Zostera marina,SRP286914,Quebec,North America,Atlantic,Canada,Canada
+SRR12803765,AMPLICON,591,28414,PRJNA667462,SAMN16368442,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803766,AMPLICON,599,31027810,PRJNA667462,SAMN16368441,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803767,AMPLICON,599,9482996,PRJNA667462,SAMN16368440,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803768,AMPLICON,600,12240600,PRJNA667462,SAMN16368439,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803769,AMPLICON,599,3295602,PRJNA667462,SAMN16368438,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803770,AMPLICON,599,3490076,PRJNA667462,SAMN16368437,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803771,AMPLICON,599,39356078,PRJNA667462,SAMN16367933,,marine biome,intertidal zone,plant matter,SRX9272432,USA,North America,USA: Washington,Zostera marina,Illumina MiSeq,178720,Seagrass microbiome iTags plate 1,46.474 N 124.028 W,Plate_1.ZM409_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM409_L,ZM409_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM409_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803772,AMPLICON,600,5667000,PRJNA667462,SAMN16368436,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803773,AMPLICON,599,856668,PRJNA667462,SAMN16368435,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803774,AMPLICON,599,3603486,PRJNA667462,SAMN16368434,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803775,AMPLICON,600,11809200,PRJNA667462,SAMN16368433,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803776,AMPLICON,599,22534898,PRJNA667462,SAMN16368432,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803777,AMPLICON,599,36806274,PRJNA667462,SAMN16368431,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803778,AMPLICON,599,11481570,PRJNA667462,SAMN16368430,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803779,AMPLICON,599,18187194,PRJNA667462,SAMN16368429,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803780,AMPLICON,599,139583344,PRJNA667462,SAMN16368151,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803781,AMPLICON,599,124027698,PRJNA667462,SAMN16368150,,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803782,AMPLICON,599,103913526,PRJNA667462,SAMN16368149,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803783,AMPLICON,599,40402764,PRJNA667462,SAMN16368148,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803784,AMPLICON,599,128815610,PRJNA667462,SAMN16368147,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803785,AMPLICON,599,94932926,PRJNA667462,SAMN16367904,,marine biome,intertidal zone,plant matter,SRX9272418,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178691,Seagrass microbiome iTags plate 1,34.297834 N 132.91631 E,Plate_1.ZM204_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM204_L,ZM204_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM204_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803786,AMPLICON,599,98003776,PRJNA667462,SAMN16368146,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803787,AMPLICON,599,98735008,PRJNA667462,SAMN16368145,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803788,AMPLICON,600,105966000,PRJNA667462,SAMN16368144,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803789,AMPLICON,599,145061188,PRJNA667462,SAMN16368143,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803790,AMPLICON,599,136073194,PRJNA667462,SAMN16368142,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803791,AMPLICON,599,132086836,PRJNA667462,SAMN16368141,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803792,AMPLICON,599,87518212,PRJNA667462,SAMN16368140,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803793,AMPLICON,599,92594960,PRJNA667462,SAMN16368139,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803794,AMPLICON,599,153350226,PRJNA667462,SAMN16368138,,Zostera marina,SRP286914,Japan - North,Asia,Pacific,Japan - North,Japan
+SRR12803795,AMPLICON,599,157952250,PRJNA667462,SAMN16368137,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803796,AMPLICON,599,124961642,PRJNA667462,SAMN16367903,,marine biome,intertidal zone,plant matter,SRX9272407,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178690,Seagrass microbiome iTags plate 1,34.297834 N 132.91631 E,Plate_1.ZM203_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM203_L,ZM203_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM203_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803797,AMPLICON,599,152933070,PRJNA667462,SAMN16368136,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803798,AMPLICON,599,220300104,PRJNA667462,SAMN16368135,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803799,AMPLICON,599,87296018,PRJNA667462,SAMN16368134,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803800,AMPLICON,599,130789804,PRJNA667462,SAMN16368133,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803801,AMPLICON,599,162213086,PRJNA667462,SAMN16368132,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803802,AMPLICON,599,139608262,PRJNA667462,SAMN16368131,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803803,AMPLICON,599,77645394,PRJNA667462,SAMN16368130,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803804,AMPLICON,599,138284794,PRJNA667462,SAMN16368129,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803805,AMPLICON,599,81559406,PRJNA667462,SAMN16368128,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803806,AMPLICON,599,146762938,PRJNA667462,SAMN16368127,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803807,AMPLICON,599,130332914,PRJNA667462,SAMN16367902,,marine biome,intertidal zone,plant matter,SRX9272396,Japan,Asia,Japan,Zostera marina,Illumina MiSeq,178689,Seagrass microbiome iTags plate 1,34.297834 N 132.91631 E,Plate_1.ZM202_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM202_L,ZM202_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM202_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Japan - South,Asia,Pacific,Japan - South,Japan
+SRR12803808,AMPLICON,599,109181926,PRJNA667462,SAMN16368126,,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803809,AMPLICON,599,83991240,PRJNA667462,SAMN16368125,,Potamogeton,SRP286914,Feather River,,,,
+SRR12803810,AMPLICON,599,84316794,PRJNA667462,SAMN16368124,,Potamogeton,SRP286914,Oroville Lake,,,,
+SRR12803811,AMPLICON,599,110971978,PRJNA667462,SAMN16368123,,Potamogeton,SRP286914,Oroville Lake,,,,
+SRR12803812,AMPLICON,599,69378540,PRJNA667462,SAMN16368122,,Potamogeton,SRP286914,Oroville Lake,,,,
+SRR12803813,AMPLICON,599,77791618,PRJNA667462,SAMN16368121,,Potamogeton,SRP286914,Oroville Lake,,,,
+SRR12803814,AMPLICON,599,75263402,PRJNA667462,SAMN16368120,,Elodea,SRP286914,Lake Natomas,,,,
+SRR12803815,AMPLICON,599,68126110,PRJNA667462,SAMN16368119,,Potamogeton crispus,SRP286914,Discovery Park,,,,
+SRR12803816,AMPLICON,583,90948574,PRJNA667462,SAMN16368118,,Elodea,SRP286914,Discovery Park,,,,
+SRR12803817,AMPLICON,599,65493700,PRJNA667462,SAMN16368117,,Potamogeton crispus,SRP286914,Cosumnes River,,,,
+SRR12803818,AMPLICON,599,110541876,PRJNA667462,SAMN16368504,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803819,AMPLICON,599,135519846,PRJNA667462,SAMN16368503,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803820,AMPLICON,599,230933256,PRJNA667462,SAMN16368502,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2012,North America,Pacific,California - North,California
+SRR12803821,AMPLICON,599,411596,PRJNA667462,SAMN16368501,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2011,North America,Pacific,California - North,California
+SRR12803822,AMPLICON,600,108600,PRJNA667462,SAMN16368500,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2010,North America,Pacific,California - North,California
+SRR12803823,AMPLICON,599,28294472,PRJNA667462,SAMN16368499,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2009,North America,Pacific,California - North,California
+SRR12803824,AMPLICON,599,369000938,PRJNA667462,SAMN16368498,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2008,North America,Pacific,California - North,California
+SRR12803825,AMPLICON,599,369394806,PRJNA667462,SAMN16368497,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2007,North America,Pacific,California - North,California
+SRR12803826,AMPLICON,599,139241760,PRJNA667462,SAMN16367939,,Zostera marina,Illumina MiSeq,178726,Seagrass microbiome iTags plate 1,38.319755 N 123.055136 W,Plate_1.ZM507_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM507_L,ZM507_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM507_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803827,AMPLICON,599,395284958,PRJNA667462,SAMN16368496,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2006,North America,Pacific,California - North,California
+SRR12803828,AMPLICON,599,265369686,PRJNA667462,SAMN16368495,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2005,North America,Pacific,California - North,California
+SRR12803829,AMPLICON,599,876978,PRJNA667462,SAMN16368494,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2004,North America,Pacific,California - North,California
+SRR12803830,AMPLICON,599,409434804,PRJNA667462,SAMN16368493,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2003,North America,Pacific,California - North,California
+SRR12803831,AMPLICON,600,1800,PRJNA667462,SAMN16368492,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2002,North America,Pacific,California - North,California
+SRR12803832,AMPLICON,599,133215496,PRJNA667462,SAMN16368491,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMb2001,North America,Pacific,California - North,California
+SRR12803833,AMPLICON,599,276650564,PRJNA667462,SAMN16368490,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1912,North America,Pacific,California - North,California
+SRR12803834,AMPLICON,600,271200,PRJNA667462,SAMN16368489,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1911,North America,Pacific,California - North,California
+SRR12803835,AMPLICON,599,187001660,PRJNA667462,SAMN16368488,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1910,North America,Pacific,California - North,California
+SRR12803836,AMPLICON,599,72240302,PRJNA667462,SAMN16368487,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1909,North America,Pacific,California - North,California
+SRR12803837,AMPLICON,599,61531950,PRJNA667462,SAMN16367938,,Zostera marina,Illumina MiSeq,178725,Seagrass microbiome iTags plate 1,38.319755 N 123.055136 W,Plate_1.ZM506_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM506_L,ZM506_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM506_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803838,AMPLICON,599,316380594,PRJNA667462,SAMN16368486,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1908,North America,Pacific,California - North,California
+SRR12803839,AMPLICON,599,250229182,PRJNA667462,SAMN16368485,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1907,North America,Pacific,California - North,California
+SRR12803840,AMPLICON,600,13800,PRJNA667462,SAMN16368484,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1906,North America,Pacific,California - North,California
+SRR12803841,AMPLICON,599,325796930,PRJNA667462,SAMN16368483,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1905,North America,Pacific,California - North,California
+SRR12803842,AMPLICON,599,48742726,PRJNA667462,SAMN16368482,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1904,North America,Pacific,California - North,California
+SRR12803843,AMPLICON,599,63406860,PRJNA667462,SAMN16368481,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1903,North America,Pacific,California - North,California
+SRR12803844,AMPLICON,599,376971632,PRJNA667462,SAMN16368480,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1902,North America,Pacific,California - North,California
+SRR12803845,AMPLICON,599,290872686,PRJNA667462,SAMN16368479,,Zostera marina,SRP286914,California - Bodega Bay Clones - BbMa1901,North America,Pacific,California - North,California
+SRR12803846,AMPLICON,599,25046850,PRJNA667462,SAMN16368428,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803847,AMPLICON,600,48285600,PRJNA667462,SAMN16368427,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803848,AMPLICON,599,86994316,PRJNA667462,SAMN16367932,,marine biome,intertidal zone,plant matter,SRX9272813,USA,North America,USA: Washington,Zostera marina,Illumina MiSeq,178719,Seagrass microbiome iTags plate 1,46.474 N 124.028 W,Plate_1.ZM408_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM408_L,ZM408_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM408_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803849,AMPLICON,599,36131922,PRJNA667462,SAMN16368426,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803850,AMPLICON,599,87501136,PRJNA667462,SAMN16368425,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803851,AMPLICON,600,190200,PRJNA667462,SAMN16368424,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803852,AMPLICON,600,28551000,PRJNA667462,SAMN16368423,,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803853,AMPLICON,600,285600,PRJNA667462,SAMN16368422,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803854,AMPLICON,599,9258922,PRJNA667462,SAMN16368421,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803855,AMPLICON,600,3817200,PRJNA667462,SAMN16368420,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803856,AMPLICON,600,9371400,PRJNA667462,SAMN16368419,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803857,AMPLICON,600,10165800,PRJNA667462,SAMN16368418,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803858,AMPLICON,600,12682800,PRJNA667462,SAMN16368417,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803859,AMPLICON,599,77966390,PRJNA667462,SAMN16367931,,marine biome,intertidal zone,plant matter,SRX9272802,USA,North America,USA: Washington,Zostera marina,Illumina MiSeq,178718,Seagrass microbiome iTags plate 1,46.474 N 124.028 W,Plate_1.ZM407_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM407_L,ZM407_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM407_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803860,AMPLICON,600,24873000,PRJNA667462,SAMN16368416,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803861,AMPLICON,600,1036800,PRJNA667462,SAMN16368415,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803862,AMPLICON,599,60596,PRJNA667462,SAMN16368414,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803863,AMPLICON,599,6493196,PRJNA667462,SAMN16368413,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803864,AMPLICON,599,8576608,PRJNA667462,SAMN16368412,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803865,AMPLICON,599,72596,PRJNA667462,SAMN16368411,,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803866,AMPLICON,600,470400,PRJNA667462,SAMN16368410,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803867,AMPLICON,599,38385410,PRJNA667462,SAMN16368409,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803868,AMPLICON,599,20837582,PRJNA667462,SAMN16368408,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803869,AMPLICON,600,144000,PRJNA667462,SAMN16368407,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803870,AMPLICON,599,80119318,PRJNA667462,SAMN16367930,,marine biome,intertidal zone,plant matter,SRX9272791,USA,North America,USA: Washington,Zostera marina,Illumina MiSeq,178717,Seagrass microbiome iTags plate 1,46.474 N 124.028 W,Plate_1.ZM406_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM406_L,ZM406_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM406_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Washington - B,North America,Pacific,Washington,Washington
+SRR12803871,AMPLICON,599,295642978,PRJNA667462,SAMN16368406,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803872,AMPLICON,600,20400,PRJNA667462,SAMN16368405,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803873,AMPLICON,599,18509394,PRJNA667462,SAMN16368404,,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803874,AMPLICON,599,471802586,PRJNA667462,SAMN16368353,,Phyllospadix,SRP286914,California - Moss Beach,,,,
+SRR12803875,AMPLICON,599,395367786,PRJNA667462,SAMN16368352,,Phyllospadix,SRP286914,California - Moss Beach,,,,
+SRR12803876,AMPLICON,599,104624370,PRJNA667462,SAMN16368351,,Phyllospadix,SRP286914,California - Moss Beach,,,,
+SRR12803877,AMPLICON,599,355124724,PRJNA667462,SAMN16368350,,Phyllospadix,SRP286914,California - Moss Beach,,,,
+SRR12803878,AMPLICON,599,481605604,PRJNA667462,SAMN16368349,,Phyllospadix,SRP286914,California - Moss Beach,,,,
+SRR12803879,AMPLICON,599,327500002,PRJNA667462,SAMN16368348,,Potamogeton,SRP286914,Lake Herman,,,,
+SRR12803880,AMPLICON,599,64113534,PRJNA667462,SAMN16368347,,Alisma/Sagittaria,SRP286914,Discovery Park,,,,
+SRR12803881,AMPLICON,599,102671292,PRJNA667462,SAMN16367924,,marine biome,intertidal zone,plant matter,SRX9272780,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178711,Seagrass microbiome iTags plate 1,55.328899 N 162.821207 W,Plate_1.ZM316_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM316_L,ZM316_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM316_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803882,AMPLICON,599,26227016,PRJNA667462,SAMN16368346,,Alisma/Sagittaria,SRP286914,Cosumnes River,,,,
+SRR12803883,AMPLICON,599,111350282,PRJNA667462,SAMN16368345,,Elodea,SRP286914,Cosumnes River,,,,
+SRR12803884,AMPLICON,599,24458600,PRJNA667462,SAMN16368344,,Sagittaria,SRP286914,Cosumnes River,,,,
+SRR12803885,AMPLICON,599,53352338,PRJNA667462,SAMN16368343,,Sagittaria,SRP286914,Cosumnes River,,,,
+SRR12803886,AMPLICON,599,557962,PRJNA667462,SAMN16368342,,Sagittaria,SRP286914,Cosumnes River,,,,
+SRR12803887,AMPLICON,599,36256560,PRJNA667462,SAMN16368341,,Alisma/Sagittaria,SRP286914,Cosumnes River,,,,
+SRR12803888,AMPLICON,599,202660764,PRJNA667462,SAMN16368340,,Halophila decipiens,SRP286914,,,,,
+SRR12803889,AMPLICON,599,147891226,PRJNA667462,SAMN16368339,,Thalassia testudinum,SRP286914,,,,,
+SRR12803890,AMPLICON,600,75726000,PRJNA667462,SAMN16368338,,Halodule wrightii,SRP286914,,,,,
+SRR12803891,AMPLICON,599,194762816,PRJNA667462,SAMN16368337,,Syringodium,SRP286914,,,,,
+SRR12803892,AMPLICON,599,24190580,PRJNA667462,SAMN16367923,,marine biome,intertidal zone,plant matter,SRX9272769,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178710,Seagrass microbiome iTags plate 1,55.328899 N 162.821207 W,Plate_1.ZM312_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM312_L,ZM312_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM312_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803893,AMPLICON,599,357371924,PRJNA667462,SAMN16368336,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803894,AMPLICON,600,216600,PRJNA667462,SAMN16368335,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803895,AMPLICON,599,1331244,PRJNA667462,SAMN16368334,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803896,AMPLICON,600,1464000,PRJNA667462,SAMN16368333,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803897,AMPLICON,600,138166200,PRJNA667462,SAMN16368332,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803898,AMPLICON,600,1092600,PRJNA667462,SAMN16368331,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803899,AMPLICON,600,1435800,PRJNA667462,SAMN16368330,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803900,AMPLICON,599,94169824,PRJNA667462,SAMN16368329,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803901,AMPLICON,600,1297800,PRJNA667462,SAMN16368328,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803902,AMPLICON,599,201286380,PRJNA667462,SAMN16368327,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803903,AMPLICON,599,71962886,PRJNA667462,SAMN16367922,,marine biome,intertidal zone,plant matter,SRX9272758,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178709,Seagrass microbiome iTags plate 1,55.328899 N 162.821207 W,Plate_1.ZM311_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM311_L,ZM311_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM311_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803904,AMPLICON,599,298533450,PRJNA667462,SAMN16368326,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803905,AMPLICON,599,1501172,PRJNA667462,SAMN16368325,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803906,AMPLICON,599,178184478,PRJNA667462,SAMN16368324,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803907,AMPLICON,600,5406600,PRJNA667462,SAMN16368323,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803908,AMPLICON,599,281150950,PRJNA667462,SAMN16368322,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803909,AMPLICON,599,486335002,PRJNA667462,SAMN16368321,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803910,AMPLICON,600,1402800,PRJNA667462,SAMN16368320,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803911,AMPLICON,600,759600,PRJNA667462,SAMN16368319,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803912,AMPLICON,600,3181800,PRJNA667462,SAMN16368318,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803913,AMPLICON,599,112171198,PRJNA667462,SAMN16368317,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803914,AMPLICON,599,44968800,PRJNA667462,SAMN16367921,,marine biome,intertidal zone,plant matter,SRX9272747,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178708,Seagrass microbiome iTags plate 1,55.328899 N 162.821207 W,Plate_1.ZM310_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM310_L,ZM310_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM310_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803915,AMPLICON,599,2180348,PRJNA667462,SAMN16368316,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803916,AMPLICON,599,246863038,PRJNA667462,SAMN16368315,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803917,AMPLICON,599,935184,PRJNA667462,SAMN16368314,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803918,AMPLICON,599,36580472,PRJNA667462,SAMN16368313,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803919,AMPLICON,599,162099496,PRJNA667462,SAMN16368312,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803920,AMPLICON,599,95699616,PRJNA667462,SAMN16368311,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803921,AMPLICON,599,338174742,PRJNA667462,SAMN16368310,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803922,AMPLICON,600,2903400,PRJNA667462,SAMN16368309,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803923,AMPLICON,599,228733038,PRJNA667462,SAMN16368308,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803924,AMPLICON,600,1130400,PRJNA667462,SAMN16368307,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803925,AMPLICON,599,28569270,PRJNA667462,SAMN16367920,,marine biome,intertidal zone,plant matter,SRX9272736,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178707,Seagrass microbiome iTags plate 1,55.328899 N 162.821207 W,Plate_1.ZM309_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM309_L,ZM309_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM309_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803926,AMPLICON,600,1327800,PRJNA667462,SAMN16368306,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803927,AMPLICON,599,158835794,PRJNA667462,SAMN16368305,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803928,AMPLICON,599,9225488,PRJNA667462,SAMN16368304,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803929,AMPLICON,599,1363778,PRJNA667462,SAMN16368303,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803930,AMPLICON,599,172685280,PRJNA667462,SAMN16368302,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803931,AMPLICON,599,95315842,PRJNA667462,SAMN16368301,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803932,AMPLICON,599,416312,PRJNA667462,SAMN16368300,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803933,AMPLICON,600,979800,PRJNA667462,SAMN16368299,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803934,AMPLICON,599,81498108,PRJNA667462,SAMN16368298,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803935,AMPLICON,599,226423040,PRJNA667462,SAMN16368297,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803936,AMPLICON,599,50612048,PRJNA667462,SAMN16367919,,marine biome,intertidal zone,plant matter,SRX9272725,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178706,Seagrass microbiome iTags plate 1,55.328899 N 162.821207 W,Plate_1.ZM307_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM307_L,ZM307_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM307_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803937,AMPLICON,599,733718,PRJNA667462,SAMN16368296,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803938,AMPLICON,599,83845104,PRJNA667462,SAMN16368295,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803939,AMPLICON,599,214824396,PRJNA667462,SAMN16368294,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803940,AMPLICON,599,382024222,PRJNA667462,SAMN16368293,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803941,AMPLICON,599,683808,PRJNA667462,SAMN16368292,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803942,AMPLICON,599,164760950,PRJNA667462,SAMN16368291,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803943,AMPLICON,599,1849610,PRJNA667462,SAMN16368290,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803944,AMPLICON,600,1862400,PRJNA667462,SAMN16368289,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12803945,AMPLICON,599,10420474,PRJNA667462,SAMN16368288,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803946,AMPLICON,600,159600,PRJNA667462,SAMN16368287,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803947,AMPLICON,599,40161422,PRJNA667462,SAMN16367918,,marine biome,intertidal zone,plant matter,SRX9272714,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178705,Seagrass microbiome iTags plate 1,55.328899 N 162.821207 W,Plate_1.ZM306_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM306_L,ZM306_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM306_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12803948,AMPLICON,599,1647578,PRJNA667462,SAMN16368286,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803949,AMPLICON,599,297470620,PRJNA667462,SAMN16368285,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803950,AMPLICON,599,1100050,PRJNA667462,SAMN16368284,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803951,AMPLICON,599,2771152,PRJNA667462,SAMN16368283,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803952,AMPLICON,599,166068674,PRJNA667462,SAMN16368282,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803953,AMPLICON,600,1314600,PRJNA667462,SAMN16368281,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803954,AMPLICON,600,997200,PRJNA667462,SAMN16368280,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803955,AMPLICON,599,141545018,PRJNA667462,SAMN16368279,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803956,AMPLICON,599,1656542,PRJNA667462,SAMN16368278,,Zostera marina,SRP286914,Sweden,Europe,Atlantic,Sweden,Sweden
+SRR12803957,AMPLICON,599,1743524,PRJNA667462,SAMN16368277,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12803958,AMPLICON,599,121649528,PRJNA667462,SAMN16368579,,Thalassia testudinum,SRP286914,,,,,
+SRR12803959,AMPLICON,599,87185958,PRJNA667462,SAMN16368578,,Halophila decipiens,SRP286914,,,,,
+SRR12803960,AMPLICON,599,3139778,PRJNA667462,SAMN16368577,,Thalassia testudinum,SRP286914,,,,,
+SRR12803961,AMPLICON,599,109144616,PRJNA667462,SAMN16367947,,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803962,AMPLICON,599,163968290,PRJNA667462,SAMN16367884,,marine biome,intertidal zone,plant matter,SRX9272699,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178671,Seagrass microbiome iTags plate 1,64.485428 N 164.76189 W,Plate_1.ZM8_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM8_L,ZM8_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM8_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Kotzebue,North America,Pacific,Alaska - North,Alaska
+SRR12803963,AMPLICON,600,1900800,PRJNA667462,SAMN16368576,,Halodule wrightii,SRP286914,,,,,
+SRR12803964,AMPLICON,599,17801746,PRJNA667462,SAMN16368575,,Syringodium,SRP286914,,,,,
+SRR12803965,AMPLICON,599,74864822,PRJNA667462,SAMN16368574,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803966,AMPLICON,599,6148032,PRJNA667462,SAMN16368573,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803967,AMPLICON,599,14556186,PRJNA667462,SAMN16368572,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803968,AMPLICON,599,48565226,PRJNA667462,SAMN16368571,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803969,AMPLICON,600,3326400,PRJNA667462,SAMN16368570,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803970,AMPLICON,599,147151716,PRJNA667462,SAMN16368569,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803971,AMPLICON,600,10369800,PRJNA667462,SAMN16368568,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803972,AMPLICON,599,47738130,PRJNA667462,SAMN16368567,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803973,AMPLICON,599,31472076,PRJNA667462,SAMN16367946,,Zostera marina,Illumina MiSeq,178733,Seagrass microbiome iTags plate 1,32.713756 N 117.225474 W,Plate_1.ZM602_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM602_L,ZM602_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM602_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803974,AMPLICON,599,111954714,PRJNA667462,SAMN16368566,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803975,AMPLICON,599,113979250,PRJNA667462,SAMN16368565,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803976,AMPLICON,599,27382328,PRJNA667462,SAMN16368564,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803977,AMPLICON,599,28644076,PRJNA667462,SAMN16368563,,Zostera marina,SRP286914,Croatia,Europe,Atlantic,Croatia,Croatia
+SRR12803978,AMPLICON,599,6266710,PRJNA667462,SAMN16368562,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803979,AMPLICON,599,4156524,PRJNA667462,SAMN16368561,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803980,AMPLICON,599,2881524,PRJNA667462,SAMN16368560,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803981,AMPLICON,599,190649032,PRJNA667462,SAMN16368559,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803982,AMPLICON,599,20408852,PRJNA667462,SAMN16368558,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803983,AMPLICON,599,315349992,PRJNA667462,SAMN16368557,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803984,AMPLICON,599,130191328,PRJNA667462,SAMN16367945,,Zostera marina,Illumina MiSeq,178732,Seagrass microbiome iTags plate 1,32.713756 N 117.225474 W,Plate_1.ZM601_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM601_L,ZM601_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM601_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,California - San Diego,North America,Pacific,California - South,California
+SRR12803985,AMPLICON,599,79176854,PRJNA667462,SAMN16368556,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803986,AMPLICON,600,1003200,PRJNA667462,SAMN16368555,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803987,AMPLICON,599,5014830,PRJNA667462,SAMN16368554,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803988,AMPLICON,600,4426800,PRJNA667462,SAMN16368553,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803989,AMPLICON,600,3355200,PRJNA667462,SAMN16368552,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803990,AMPLICON,600,15945600,PRJNA667462,SAMN16368551,,Zostera marina,SRP286914,French Mediterranean,Europe,Atlantic,French Mediterranean,French Mediterranean
+SRR12803991,AMPLICON,600,9847800,PRJNA667462,SAMN16368550,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803992,AMPLICON,600,11538600,PRJNA667462,SAMN16368549,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803993,AMPLICON,600,1768800,PRJNA667462,SAMN16368548,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803994,AMPLICON,600,9105000,PRJNA667462,SAMN16368547,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803995,AMPLICON,599,56311882,PRJNA667462,SAMN16367944,,Zostera marina,Illumina MiSeq,178731,Seagrass microbiome iTags plate 1,38.319755 N 123.055136 W,Plate_1.ZM512_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM512_L,ZM512_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM512_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12803996,AMPLICON,599,113516004,PRJNA667462,SAMN16368546,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803997,AMPLICON,600,4395000,PRJNA667462,SAMN16368545,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803998,AMPLICON,599,6040198,PRJNA667462,SAMN16368544,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12803999,AMPLICON,599,10427010,PRJNA667462,SAMN16368543,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12804000,AMPLICON,599,17454744,PRJNA667462,SAMN16368542,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12804001,AMPLICON,599,3370400,PRJNA667462,SAMN16368541,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12804002,AMPLICON,600,15474600,PRJNA667462,SAMN16368540,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12804003,AMPLICON,599,21686196,PRJNA667462,SAMN16368539,,Zostera marina,SRP286914,Portugal,Europe,Atlantic,Portugal,Portugal
+SRR12804004,AMPLICON,599,330780854,PRJNA667462,SAMN16368538,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12804005,AMPLICON,599,49081188,PRJNA667462,SAMN16368537,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12804006,AMPLICON,599,91498898,PRJNA667462,SAMN16367943,,Zostera marina,Illumina MiSeq,178730,Seagrass microbiome iTags plate 1,38.319755 N 123.055136 W,Plate_1.ZM511_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM511_L,ZM511_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM511_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,California - Bodega Bay,North America,Pacific,California - North,California
+SRR12804007,AMPLICON,599,9835214,PRJNA667462,SAMN16368536,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12804008,AMPLICON,599,27724444,PRJNA667462,SAMN16368535,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12804009,AMPLICON,599,181781870,PRJNA667462,SAMN16368534,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12804010,AMPLICON,599,256008570,PRJNA667462,SAMN16368533,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12804011,AMPLICON,599,181863572,PRJNA667462,SAMN16368532,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12804012,AMPLICON,599,55143606,PRJNA667462,SAMN16368531,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12804013,AMPLICON,600,15573600,PRJNA667462,SAMN16368530,,Zostera marina,SRP286914,Wales,Europe,Atlantic,Wales,Wales
+SRR12804014,AMPLICON,599,76433898,PRJNA667462,SAMN16367917,,marine biome,intertidal zone,plant matter,SRX9272647,USA,North America,USA: Alaska,Zostera marina,Illumina MiSeq,178704,Seagrass microbiome iTags plate 1,55.328899 N 162.821207 W,Plate_1.ZM305_L,PAIRED,PCR,METAGENOMIC,plant metagenome,Plate_1,ILLUMINA,2020-10-09T00:00:00Z,Plate_1.ZM305_L,ZM305_L,leaf,ZymoBIOMICS 96 Magbead DNA Kit,Plate_1.ZM305_L,Seagrass,Box 1 - plate 1 #1,Zostera marina,SRP286914,Alaska - Izembek,North America,Pacific,Alaska - South,Alaska
+SRR12804016,AMPLICON,599,1447804,PRJNA667462,SAMN16368276,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12804017,AMPLICON,599,2383732,PRJNA667462,SAMN16368275,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12804018,AMPLICON,599,1140442,PRJNA667462,SAMN16368274,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
+SRR12804019,AMPLICON,599,852818,PRJNA667462,SAMN16368273,,Zostera marina,SRP286914,Northern Norway,Europe,Atlantic,Norway,Norway
