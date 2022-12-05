@@ -5,7 +5,7 @@ cd Data/study_metadata/SRA_Metadata
 for i in *.txt;do sed -i 's/".*"//' $i; done
 
 
-
+# Run itsxpress on raw data sets
 while read SRR;do prefetch $SRR;done < ./Data/SRA_Acc_List.txt
 while read SRR;do fastq-dump --outdir fastq --gzip --skip-technical  --readids --read-filter pass --dumpbase --split-3 --clip $SRR
 cd ./Data/fastq/
@@ -13,4 +13,15 @@ for FQ in *pass_1.fastq.gz; do itsxpress --fastq $FQ --single_end --outfile $FQ.
 mkdir ITS2/
 mv *ITS2* *.log ./ITS2/
 cd ../../
+
+
+# Run R scripts in order
+
+Rscript 01_Process_ITS_Reads.R
+Rscript 02_play_with_ps_object.R
+Rscript 03_make_sequence_table.R
+Rscript 04_assign_taxonomy.R
+Rscript 05_build_phyloseq_objects.R
+Rscript 06_compare_alpha_div.R
+Rscript 07_combine_all_studies_ordination.R
 
