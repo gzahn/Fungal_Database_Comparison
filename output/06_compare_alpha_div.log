@@ -1,0 +1,121 @@
+[1] "PRJEB31011"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 502 taxa and 20 samples ]
+sample_data() Sample Data:       [ 20 samples by 49 sample variables ]
+tax_table()   Taxonomy Table:    [ 502 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 502 taxa and 20 samples ]
+sample_data() Sample Data:       [ 20 samples by 49 sample variables ]
+tax_table()   Taxonomy Table:    [ 502 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+[1] "PRJEB39016"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 1017 taxa and 19 samples ]
+sample_data() Sample Data:       [ 19 samples by 49 sample variables ]
+tax_table()   Taxonomy Table:    [ 1017 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 1017 taxa and 19 samples ]
+sample_data() Sample Data:       [ 19 samples by 49 sample variables ]
+tax_table()   Taxonomy Table:    [ 1017 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+[1] "PRJEB39063"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 243 taxa and 20 samples ]
+sample_data() Sample Data:       [ 20 samples by 49 sample variables ]
+tax_table()   Taxonomy Table:    [ 243 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 243 taxa and 20 samples ]
+sample_data() Sample Data:       [ 20 samples by 49 sample variables ]
+tax_table()   Taxonomy Table:    [ 243 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+[1] "PRJNA317649"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 358 taxa and 20 samples ]
+sample_data() Sample Data:       [ 20 samples by 42 sample variables ]
+tax_table()   Taxonomy Table:    [ 358 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 358 taxa and 20 samples ]
+sample_data() Sample Data:       [ 20 samples by 42 sample variables ]
+tax_table()   Taxonomy Table:    [ 358 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+[1] "PRJNA375780"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 740 taxa and 20 samples ]
+sample_data() Sample Data:       [ 20 samples by 31 sample variables ]
+tax_table()   Taxonomy Table:    [ 740 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 740 taxa and 20 samples ]
+sample_data() Sample Data:       [ 20 samples by 31 sample variables ]
+tax_table()   Taxonomy Table:    [ 740 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+[1] "PRJNA530579"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 362 taxa and 4 samples ]
+sample_data() Sample Data:       [ 4 samples by 32 sample variables ]
+tax_table()   Taxonomy Table:    [ 362 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 362 taxa and 4 samples ]
+sample_data() Sample Data:       [ 4 samples by 32 sample variables ]
+tax_table()   Taxonomy Table:    [ 362 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+[1] "PRJNA648818"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 539 taxa and 20 samples ]
+sample_data() Sample Data:       [ 20 samples by 32 sample variables ]
+tax_table()   Taxonomy Table:    [ 539 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 539 taxa and 20 samples ]
+sample_data() Sample Data:       [ 20 samples by 32 sample variables ]
+tax_table()   Taxonomy Table:    [ 539 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+[1] "PRJNA662173"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 4208 taxa and 20 samples ]
+sample_data() Sample Data:       [ 20 samples by 34 sample variables ]
+tax_table()   Taxonomy Table:    [ 4208 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 4208 taxa and 20 samples ]
+sample_data() Sample Data:       [ 20 samples by 34 sample variables ]
+tax_table()   Taxonomy Table:    [ 4208 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+[1] "PRJNA676148"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 671 taxa and 20 samples ]
+sample_data() Sample Data:       [ 20 samples by 32 sample variables ]
+tax_table()   Taxonomy Table:    [ 671 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 671 taxa and 20 samples ]
+sample_data() Sample Data:       [ 20 samples by 32 sample variables ]
+tax_table()   Taxonomy Table:    [ 671 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+[1] "PRJNA752501"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 1406 taxa and 20 samples ]
+sample_data() Sample Data:       [ 20 samples by 31 sample variables ]
+tax_table()   Taxonomy Table:    [ 1406 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 1406 taxa and 20 samples ]
+sample_data() Sample Data:       [ 20 samples by 31 sample variables ]
+tax_table()   Taxonomy Table:    [ 1406 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+[1] "SRP045925"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 11779 taxa and 54 samples ]
+sample_data() Sample Data:       [ 54 samples by 35 sample variables ]
+tax_table()   Taxonomy Table:    [ 11779 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 11779 taxa and 54 samples ]
+sample_data() Sample Data:       [ 54 samples by 35 sample variables ]
+tax_table()   Taxonomy Table:    [ 11779 taxa by 7 taxonomic ranks ]
+[1] "Kingdom" "Phylum"  "Class"   "Order"   "Family"  "Genus"   "Species"
